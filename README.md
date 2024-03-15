@@ -52,3 +52,13 @@ detail needed to successfully complete the assignment will have been covered
 during prior classroom sessions. This is by design as an important skill that
 you must practice as an algorithm engineer is to search for and then understand
 and ultimately apply the technical content found in additional resources.
+
+## 📚 Project Details
+
+TODO: Sign your pledge in this file to indicate that you adhered to the Honor
+Code while completing this assignment.
+
+TODO: Add a reference to the blog post that you and your team members wrote.
+
+TODO: Write at least two sentences to explain the key role(s) that you played
+in completing this team-based project.
