@@ -39,7 +39,7 @@ next week.
 
 It is important to point out that your repository for this project was created
 from the GitHub repository template called
-[running-time-starter](https://github.com/Algorithmology/running-time-starter);
+[runtime-and-running-time-starter](https://github.com/Algorithmology/running-time-starter);
 you can check this repository for any updates to this project's documentation
 or source code! Finally, the teams and their corresponding functions will be
 assigned through an announcement in Discord; check there for more details!
